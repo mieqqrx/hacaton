@@ -63,6 +63,7 @@ export default function Sidebar() {
                         <MapIcon size={20} />
                         <span>Мапа міста</span>
                     </Link>
+
                     <Link href="/leisure" className="flex items-center gap-3 p-3 hover:bg-slate-800 rounded-lg transition-colors">
                         <Coffee size={20} />
                         <span>Час разом</span>
